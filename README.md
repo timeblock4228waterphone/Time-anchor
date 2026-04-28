@@ -1,4 +1,5 @@
 # Time-anchor Printable
+This is a map for where you are.
 
 A There is an AM and PM. How to find the next 3 hours is for example it is hour 16. 
 
