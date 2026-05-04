@@ -5,7 +5,7 @@ VO4 is the most recent one so far ignore the other files
 
 the second file for it is called part2 timeanchor-map
 The third file is the called Algerba based way to tell time.
-This one if you dont like math skip this one.
+
 
 This is a map for where you are.
 
