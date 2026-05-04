@@ -3,6 +3,8 @@
 This is an ADHD friendly printable visaul tool with time blindness
 This helps you know the next 2 hours 3 hours 15 minute 45 minute 30 minute. all in 3 pages.
 
+Thing to know about this is you look at layer by layer
+
 
 
 VO4 is the most recent one so far ignore the other files
