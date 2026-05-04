@@ -1,7 +1,10 @@
 
 # Time-Blindness-anchor Printable
-This is an ADHD friendly printable visaul tool with time blindness
-This helps you know the next 2 hours 3 hours 15 minute 45 minute 30 minute. all in 3 pages.
+# Time Anchor Printable
+
+A printable visual tool for people with time blindness.
+
+It helps you see where you are in the day, understand the next few hours, and track time using AM/PM, 24-hour time, grids, and clock references.
 
 Thing to know about this is you look at layer by layer
 
