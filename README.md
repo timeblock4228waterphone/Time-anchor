@@ -1,6 +1,8 @@
 
 # Time-Blindness-anchor Printable
-People with ADHD like me sometimes a thing called have time blindness (the unablity to track the motion of time) but what people like in time awareness we are good in patttern reconiztion.This is printable that you can see what the time is and it basically a compass for time but in way that helps with time pattern reconztion.
+This is an ADHD friendly printable visaul tool with time blindness
+This helps you know the next 2 hours 3 hours 15 minute 45 minute 30 minute. all in 3 pages.
+
 
 
 VO4 is the most recent one so far ignore the other files
