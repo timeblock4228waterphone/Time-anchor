@@ -1,4 +1,4 @@
-<img width="1700" height="2200" alt="part2-timeanchormappdf-1" src="https://github.com/user-attachments/assets/aab7b044-e2c6-471a-b668-9e227d944afa" />
+
 # Time-Blindness-anchor Printable
 People with ADHD like me sometimes a thing called have time blindness (the unablity to track the motion of time) but what people like in time awareness we are good in patttern reconiztion.This is printable that you can see what the time is and it basically a compass for time but in way that helps with time pattern reconztion.
 
@@ -24,10 +24,13 @@ C You round down to the closest 15 minute
 
 D this one 3 different ways to look at to look it at
 those two files are CCO 1(public domain)
+
+
 no right reserved meaning
 that if you want yo copy and make your
 own version with your favorite 
 interest this you can do that . you edit , copy ,whatever.
+<img width="1700" height="2200" alt="part2-timeanchormappdf-1" src="https://github.com/user-attachments/assets/aab7b044-e2c6-471a-b668-9e227d944afa" />
 this was made by Civil-Advance-2841. can you tell me if this helpful. thanks.
 
 <img width="1700" height="2200" alt="vo4Time-anchor-map-26-4-29 pdf (1) (1)-1" src="https://github.com/user-attachments/assets/e16d6c10-20ed-4bb0-bd98-67cfa9ac4599" />
