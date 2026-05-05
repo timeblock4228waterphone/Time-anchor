@@ -13,7 +13,7 @@ This time tool adapts to your energy level not the other way around.
 the level are 6 hours 3 hours 2 hours, next ,45 , 30 minute , next 30 minute anchor, next 15 minute anchor next 15 minute.to the smalled next 5 minute .
 
 the algerba one it is group in 6 hours. .
-
+with this it helps you know how much time is avible till the next event. 
 
 Thing to know about this is you look at layer by layer
 
