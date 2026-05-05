@@ -6,12 +6,12 @@ A printable visual tool for people with time blindness.
 
 It helps you see where you are in the day, understand the next few hours, and track time using AM/PM, 24-hour time, grids, and clock references.
 This time tool adapts to your energy level not the other way around. 
+the algerba one it is group in 6 hours. to the smalled next 5 minute .
+
 
 Thing to know about this is you look at layer by layer
 
-
-
-VO4 is the most recent one so far ignore the other files
+the level are 6 hours 3 hours 2 hours, next ,45 , 30 minute , next 30 minute anchor, next 15 minute anchor next 15 minute.
 
 
 
