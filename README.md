@@ -55,7 +55,7 @@ part 2 for this for seciton b what it shows is 30 next 30 minute or 6hours. c sh
 
 (important . the all togther wont make sense unless you read the first 3 pdf files.)
 
-edited this version has only the things needed the last update had mulitple duplicated
+edited May 5 2026 this version has only the things needed the last update had mulitple duplicated
 files
 
 
