@@ -1,5 +1,5 @@
 
-# Time-Blindness-compass Printable
+# Time-Blindness-compass Printable Public Domain
 
 
 A printable visual tool for people with time blindness.
