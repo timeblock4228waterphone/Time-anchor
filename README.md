@@ -1,5 +1,5 @@
 
-# Time-Blindness-anchor Printable Public Domain
+# Time Blindness tool Printable Public Domain
 
 
 A printable visual tool for people with time blindness.
