@@ -55,7 +55,7 @@ interest this you can do that . you edit , copy ,whatever.
 
 
 Also if you were yo remake underlining even number is what makes it more visually accessible
-<img width="1700" height="2200" alt="Time-compass-for-time-blindness docx-1" src="https://github.com/user-attachments/assets/c67123e4-53cf-4711-8ce4-3d6044339982" />
+
 
 part 2 for this for seciton b what it shows is 30 next 30 minute or 6hours. c show the next 45 minute group of it
 
