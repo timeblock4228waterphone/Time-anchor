@@ -1,6 +1,6 @@
 
 #ADHD Time-Blindness-anchor Printable Public Domain
-# neurodiversity
+# neurodiversity time friendly tool.
 
 A printable visual tool for people with time blindness.
 
