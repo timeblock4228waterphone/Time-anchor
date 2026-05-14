@@ -24,7 +24,7 @@ the ones to look at is the d path to go to understand it is this
 
 (5) c-6 unit of time
 
-(6) the d- instruciton for all
+(6) the dz-read at the end timblindness
 
 the 6 one has all of it togher into one printable
 
