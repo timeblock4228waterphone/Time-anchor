@@ -15,11 +15,17 @@ there are 6 printable .
 
 the ones to look at is the d path to go to understand it is this 
 (1)task-timeblindness-check-off
+
 (2) d-the-instrution-2
+
 (3) you go to a-time-blindness-printable
+
 (4) to -b-timeblindenss-part
+
 (5) c-6 unit of time
+
 (6) the d- instruciton for all
+
 the 6 one has all of it togher into one printable
 
 
