@@ -34,44 +34,48 @@ the ones to look at is the d path to go to understand it is this
 
 order to easest to hardest is this the task 
 
-task-timeblindness-checkoff.pdf
+zzzz-stickman-vo4.pdf (1)
+
+task-timeblindness-checkoff.pdf(2)
 
 
-zzzz-stickman-vo4.pdf
+
 
  
-the unit 6 one is the next eastest one you dont need to do algerba just need ot know 6 hour unit one (1)
+the unit 6 one is the next eastest one you dont need to do algerba just need ot know 6 hour unit one (3)
 
 
-a-time-blindness-printable-vo1.pdf (2)
-the b timeblindness one (3)
+a-time-blindness-printable-vo1.pdf (4)
+ 
 
-b-time-blindness-part2.pdf (4)
+b-time-blindness-part2.pdf (5)
 
-d-the-instruction-2.pdf (5)
+d-the-instruction-2.pdf (6)
 
-dz-read-at-the-end-timblindness (6)
+dz-read-at-the-end-timblindness (7)
 
 
--arrowtime-2.pdf (7)
+-arrowtime-2.pdf (8)
 
 the 6 one has all of it togher into one printable
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/-arrowtime-2.pdf (1)
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/a-time-blindness-printable-vo1.pdf (2)
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/b-time-blindness-part2.pdf (3)
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/4f0c1f1ff965ae756b10515882f48e5326dfa83e/zzzz-stickman-vo4.pdf(1)
 
 
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/task-timeblindness-checkoff.pdf (2)
+
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/c-6-unit-of-hour-timevo3.pdf (3)
 
 
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/c-6-unit-of-hour-timevo3.pdf (4)
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/d-the-instruction-2.pdf (5)
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/dz-read-at-the-end-timblindness-dashboard.pdf (6)
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/a-time-blindness-printable-vo1.pdf (4)
+
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/b-time-blindness-part2.pdf (5)
+
+d-the-instruction-2.pdf(6)
 
 
 
