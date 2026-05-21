@@ -11,7 +11,7 @@ How it works it is works with your energy level with time.
 it account for high level and low level
 
 
-there are 7 printable .
+there are 8 printable .
 
 the ones to look at is the d path to go to understand it is this 
 
@@ -25,7 +25,22 @@ the ones to look at is the d path to go to understand it is this
 (5)all of it
 
 (6)all of it
-(&) all of it
+(7) all of it
+
+( 8) the stickman my favorite one the easy one to look at.
+
+
+
+
+order to easest to hardest is this the task timeblindness checkoff
+stickman one  
+the unit 6 one is the next easitest one you dont need to do algerba just need ot know 6 hour unit one
+
+the a timebnindness1
+the b timeblindness one
+the d  time blindnessn
+the d timeblindness
+the arrow time is the hardeest
 
 the 6 one has all of it togher into one printable
 
