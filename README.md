@@ -75,15 +75,15 @@ https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9beb
 
 https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/b-time-blindness-part2.pdf (5)
 
-d-the-instruction-2.pdf(6)
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/d-the-instruction-2.pdf(6)
 
 
 
 
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/546f250d9eea2bbc2738981b7309e82a16ca6d41/task-timeblindness-checkoff.pdf (7)
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/52dfc1dacda0b0accdb0b53ed98e34f45b7ecab5/dz-read-at-the-end-timblindness-dashboard.pdf (7)
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/4f0c1f1ff965ae756b10515882f48e5326dfa83e/zzzz-stickman-vo4.pdf(8)
+https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/52dfc1dacda0b0accdb0b53ed98e34f45b7ecab5/-arrowtime-2.pdf(8)
 
 
 
