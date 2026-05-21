@@ -32,15 +32,26 @@ the ones to look at is the d path to go to understand it is this
 
 
 
-order to easest to hardest is this the task timeblindness checkoff
-stickman one  
-the unit 6 one is the next easitest one you dont need to do algerba just need ot know 6 hour unit one
+order to easest to hardest is this the task 
 
-the a timebnindness1
+task-timeblindness-checkoff.pdf
+
+
+zzzz-stickman-vo4.pdf
+
+ 
+the unit 6 one is the next eastest one you dont need to do algerba just need ot know 6 hour unit one
+
+
+a-time-blindness-printable-vo1.pdf
 the b timeblindness one
-the d  time blindnessn
-the d timeblindness
-the arrow time is the hardeest
+
+b-time-blindness-part2.pdf
+
+dz-read-at-the-end-timblindness
+
+
+-arrowtime-2.pdf
 
 the 6 one has all of it togher into one printable
 
