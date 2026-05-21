@@ -60,6 +60,13 @@ dz-read-at-the-end-timblindness (7)
 the 6 one has all of it togher into one printable
 
 
+okay the instruciton for it is this
+the stick man is there so you know the minute of it but in stickman man. if you want to know the next 15 minute look down in colium and 45 minute look up.
+
+( unit check off )
+how it works is this 
+
+
 https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/4f0c1f1ff965ae756b10515882f48e5326dfa83e/zzzz-stickman-vo4.pdf(1)
 
 
