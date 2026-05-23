@@ -89,6 +89,13 @@ there is
 
  d is the 15 minute group
 
+
+
+ 
+dz-read-at-the-end-timblindness-dashboard.pdf-vo2.pdf
+
+the reason there is 9 system slammed into 1 page is because when you are at work or at school and you need to refrence time . it hard to find the right thing when it 3 sperate pages. this one you have one page and you look at it. oh and also if you need to make it water proof use packing tape to cover it.
+
  
 
 https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/4f0c1f1ff965ae756b10515882f48e5326dfa83e/zzzz-stickman-vo4.pdf(1)
