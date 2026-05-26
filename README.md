@@ -2,10 +2,9 @@
 #ADHD anchor Time-Blindness-Printable Public Domain
 # neurodiversity time friendly tool.
 
-This helps people who lose track of time or have trouble feeling how time passes
-A printable visual tool for people with time blindness.
-Timeblindness is hard . for this you do not need all the tools at once.
-for timeblidness some time is easy some time is hard
+
+
+This is a layered time-reference system for ADHD/time blindness. Different parts are meant for different energy levels. You do not need to use all systems at once.
 
 
 ( read this)
