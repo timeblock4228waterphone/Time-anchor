@@ -104,30 +104,6 @@ the reason there is 9 system slammed into 1 page is because when you are at work
 
  
 
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/4f0c1f1ff965ae756b10515882f48e5326dfa83e/zzzz-stickman-vo4.pdf(1)
-
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/task-timeblindness-checkoff.pdf (2)
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/c-6-unit-of-hour-timevo3.pdf (3)
-
-
-
-
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/a-time-blindness-printable-vo1.pdf (4)
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/b-time-blindness-part2.pdf (5)
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/1db9bebcf2f5d7acf091eb56d59c74292eba3899/d-the-instruction-2.pdf(6)
-
-
-
-
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/52dfc1dacda0b0accdb0b53ed98e34f45b7ecab5/dz-read-at-the-end-timblindness-dashboard.pdf (7)
-
-https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/52dfc1dacda0b0accdb0b53ed98e34f45b7ecab5/-arrowtime-2.pdf(8)
 
  \   /
  
@@ -145,7 +121,7 @@ https://github.com/timeblock4228waterphone/Time-blindness-printable/blob/52dfc1d
   
   
  /  \ \
-(if you see this . this is my signtuare it a double chin happy. butterlfy named steve)
+(if you see this . this is my signtuare it a double chin happy. butterlfy named steve) this is who you give credit to.
 
 
 
